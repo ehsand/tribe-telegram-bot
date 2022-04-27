@@ -1,0 +1,4 @@
+node_modules/
+.idea/
+src/logs/
+package-lock.json
